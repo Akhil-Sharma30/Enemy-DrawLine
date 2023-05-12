@@ -1,6 +1,6 @@
 # Enemy-DrawLine
 
-##Task
+## Task 
 1. Created a square room with top angle view (can be 2d or 3d). Place the thief in the center of the room.
 2. Now randomly instantiated 10 cops in the same room. No one should overlap each other and there should be required space between each person. Make sure each person is instantiated inside the room only.
 3. For better understanding see this. Thief is represented by a green color gameobject. While cops are represented by red colored gameobjects.
