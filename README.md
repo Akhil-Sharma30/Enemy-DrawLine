@@ -1,5 +1,5 @@
 # Enemy-DrawLine
-
+> Unity Version: `2021.3.17f1`
 ## Task 
 1. Created a square room with top angle view in 2d. Place the thief in the center of the room.
 2. Now randomly instantiated 10 cops in the same room. No one should overlap each other and there should be required space between each person. Make sure each person is instantiated inside the room only.
